@@ -1,7 +1,10 @@
 body {
 	font-size: 18px;
   min-height: 2000px;
+  color: hsla(240, 15%, 30%, 1);
 }
+
+main { margin-top: 80px; }
 
 .navbar-static-top {
   margin-bottom: 19px;
@@ -11,3 +14,5 @@ body {
 	margin: 0;
 	padding: 0;
 }
+
+h2.lesson-title { margin-top: 0; }
