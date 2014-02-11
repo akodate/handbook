@@ -18,7 +18,7 @@ main { margin-top: 80px; }
 h2.lesson-title {
  font-size: 32px;
  font-weight: normal;
- margin-top: 0;
+ margin-top: 10px;
  padding: 10px;
  color: hsla( 0, 0.0%, 100.0%, 1 );
  background-color: hsla( 208, 55.9%, 44.5%, 1 );
@@ -28,7 +28,7 @@ h2.lesson-title {
 .navbar-default a.navbar-brand:hover { color: hsla( 194, 66.4%, 53.3%, 1 ); }
 
 aside.sidebar-nav {
- padding-top: 15px;
+ padding-top: 10px;
  background-color: hsla( 0, 0.0%, 98.0%, 1 );
 }
 
@@ -223,3 +223,9 @@ footer nav span.current-page {
 .navbar-default span.navbar-brand:hover,
 .navbar-default a.navbar-brand { color: hsla( 208, 55.9%, 44.5%, 1 ); }
 .navbar-default a.navbar-brand:hover { color: hsla( 194, 66.4%, 53.3%, 1 ); }
+
+.breadcrumb-trail {
+ font-size: 14px;
+ margin-top: 13px;
+ color: hsla( 0, 0.0%, 60.0%, 1 );
+}
